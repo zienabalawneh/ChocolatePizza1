@@ -1,0 +1,154 @@
+*{
+    box-sizing:border-box;
+}
+body{
+    position: relative;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+header img{
+    padding-top: 30px;
+}
+header h1{
+    font-family: 'Dancing Script', cursive;   
+    position: absolute;
+    left: 50px; 
+    top: -25px;
+    padding-top: 30px;
+}
+header h3{
+    font-family: 'Strait', sans-serif;
+    position: absolute;
+    left: 50px; 
+    top: 20px;
+    color: rgb(156, 151, 151);
+    font-size: 12px;
+    padding-top: 30px;
+    text-transform: uppercase;
+    font-style: initial;
+    font-weight: lighter;
+}
+header nav{
+    float: right;
+    padding-top: -30px;
+}
+header nav ul li{
+    display: inline-block;
+    list-style: none;
+}
+header nav ul li img{
+    padding-left: 0px;
+}
+
+.lastTwo{
+    padding-left: 10px;
+    
+}
+.lastOne{
+    padding-left: 0px;padding-right: 20px;
+}
+
+.headerMain h1{
+    font-weight: bolder;
+    font-size: 40px;
+    padding-top: 35px;
+    font-family: 'Merriweather', serif;
+
+
+}
+.headerMain h3{
+    padding-top: 0px;
+    text-transform: uppercase;
+    font-style: initial;
+    font-weight: lighter;
+    color: rgb(156, 151, 151);
+    font-size: 12px;
+    position: absolute;
+    top:252px ;
+    left: 5px;
+
+}
+.headerMain img{
+    float: right;
+    position: absolute;
+    right: 60px;
+    top:264px ;
+
+}
+p{
+    font-family: 'Inter', sans-serif;
+    font-family: 'Lexend', sans-serif;
+    font-family: 'Noto Serif', serif;
+    color: rgb(80, 80, 80);
+    padding-top: 10px;
+    text-indent: 30px;
+
+}
+
+/*
+#parts div{
+ background-image: url(".\img\list-bg.png");
+}*/
+
+ div ul {
+
+
+    position:absolute;
+    top:1290px;
+    font-size: 20px;
+    padding-left:100px;
+
+ }
+ 
+ div ul  li {
+
+list-style: none;
+color: rgb(156, 151, 151);
+font-family: 'Inter', sans-serif;
+font-family: 'Lexend', sans-serif;
+font-family: 'Noto Serif', serif
+ }
+
+ #two {
+
+     
+    list-style: none;
+    color: rgb(156, 151, 151);
+    font-family: 'Inter', sans-serif;
+    font-family: 'Lexend', sans-serif;
+    font-family: 'Noto Serif', serif;
+    padding-left:500px;
+
+     }
+
+ footer{
+
+
+    height: 350px;
+ }
+footer button{
+
+    margin-top: 30px;
+    margin-right: 13px;
+    float: right;
+    background-color:rgb(190, 101, 101);
+    border-color: rgb(190, 101, 101);
+    font-size:15px;color: white;
+    text-transform: uppercase;
+    padding: 15px 32px;
+}
+
+
+#copyright {
+    margin-top: 180px;
+    text-align: center;
+    color: gray;
+}
+
+#log2{
+position: absolute;
+top: 1800px;
+      left: 525px;
+        text-align: center;
+
+    }
